@@ -2,7 +2,7 @@
 
 i'm a software engineer in austin, texas
 
-i work at [Hello Patient](https://www.hellopatient.com/), building software for patient communication. we make it easier for clinical teams to spend less time on phones and more time with patients
+i spent the last two years at [Hello Patient](https://www.hellopatient.com/) building AI voice and SMS agents for medical practices, mostly the backend, infra, and CI/CD under them
 
 i mostly work in python, typescript, go, rust. outside of work, i build weird little things when an idea gets lodged in my brain — discord bots, data collectors, search tools, whatever seems fun or useful at the time
 
