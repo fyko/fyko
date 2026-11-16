@@ -33,7 +33,7 @@ If you find a security problem, please report it to me@fyko.net and do not explo
 
 ## 5. Privacy
 
-Our [Privacy Policy]({{PRIVACY_POLICY_URL}}) explains what information we collect and how we use it.
+Our [Privacy Policy](https://github.com/fyko/fyko/blob/main/auth/privacy.md) explains what information we collect and how we use it.
 
 ## 6. Suspension and termination
 
